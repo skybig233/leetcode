@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/11/13 9:44
 # @Author : Jiangzhesheng
-# @File : 328.py
+# @File : q328.py
 # @Software: PyCharm
 # Definition for singly-linked list.
 from leetcode_class import ListNode

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/11/11 17:26
 # @Author : Jiangzhesheng
-# @File : 514.py
+# @File : q514.py
 # @Software: PyCharm
 class Solution:
     def findRotateSteps(self, ring: str, key: str) -> int:

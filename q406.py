@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/11/16 13:29
 # @Author : Jiangzhesheng
-# @File : 406.py
+# @File : q406.py
 # @Software: PyCharm
 from typing import List
 class Solution:

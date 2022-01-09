@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/11/17 15:23
 # @Author : Jiangzhesheng
-# @File : 1030.py
+# @File : q1030.py
 # @Software: PyCharm
 from typing import List
 class Solution:
